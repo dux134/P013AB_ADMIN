@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "1037778130731",
+    "firebase_url": "https://p013ab.firebaseio.com",
+    "project_id": "p013ab",
+    "storage_bucket": "p013ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037778130731:android:8e3e939f5560483a",
+        "android_client_info": {
+          "package_name": "in.dux.p013ab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037778130731-jqk4bt4a5agcmsaq2dpvqo6iqfi1dh12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.dux.p013ab",
+            "certificate_hash": "787617a308b2f12e6b999a81cac421ac0da8bf61"
+          }
+        },
+        {
+          "client_id": "1037778130731-uj9g23bg8er0a69r7fbsmhhaa1nnbn5c.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1037778130731-uj9g23bg8er0a69r7fbsmhhaa1nnbn5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZAnJxI9RXiKvh_K94144UA6W1cRe91RM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037778130731-uj9g23bg8er0a69r7fbsmhhaa1nnbn5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037778130731:android:c6827801148708f9",
+        "android_client_info": {
+          "package_name": "in.dux.p013ab_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037778130731-plae4rcq1f6fgtuejih591krin6sijqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.dux.p013ab_admin",
+            "certificate_hash": "787617a308b2f12e6b999a81cac421ac0da8bf61"
+          }
+        },
+        {
+          "client_id": "1037778130731-uj9g23bg8er0a69r7fbsmhhaa1nnbn5c.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1037778130731-uj9g23bg8er0a69r7fbsmhhaa1nnbn5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZAnJxI9RXiKvh_K94144UA6W1cRe91RM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037778130731-uj9g23bg8er0a69r7fbsmhhaa1nnbn5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
